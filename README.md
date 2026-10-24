@@ -8,7 +8,7 @@
 [![Format: PDF](https://img.shields.io/badge/format-PDF-12332E)](#the-tools)
 [![Website](https://img.shields.io/badge/web-andersonco.uk%2Ftools-12332E)](https://andersonco.uk/tools)
 
-Every tool here is one I use in real product organisations. Each is a short, printable PDF with the question that matters most on every page, so it works in a workshop, a 1:1 or a quiet hour on your own. Most also have a live web version at [andersonco.uk/tools](https://andersonco.uk/tools).
+Every tool here is one I use in real product organisations. Each is a short, printable PDF with the question that matters most on every page, so it works in a workshop, a 1:1 or a quiet hour on your own. The guides with write-in spaces are fillable: type into them in any free PDF app, or open them in GoodNotes and write with an Apple Pencil. Most also have a live web version at [andersonco.uk/tools](https://andersonco.uk/tools).
 
 ## The Tools
 
@@ -35,7 +35,7 @@ Every tool here is one I use in real product organisations. Each is a short, pri
 
 | Tool | What it does | Web version |
 |---|---|---|
-| [The Next Chapter Canvas](coaching/the-next-chapter-canvas.pdf) | A one-page canvas to see where you are, picture a good year ahead and choose your next moves. The web version also has editions for executive and life coaches and for team and enterprise coaches. | [Open](https://andersonco.uk/next-chapter-canvas) |
+| [The Next Chapter Canvas](coaching/the-next-chapter-canvas.pdf) | A fillable self-coaching workbook: plot your wheel, choose your guiding feelings and rank your outcomes to find your highest priority. The web version also has editions for executive and life coaches and for team and enterprise coaches. | [Open](https://andersonco.uk/next-chapter-canvas) |
 
 ### For Job Seekers
 
@@ -43,7 +43,7 @@ Designed with the Armed Forces community in mind, and open to anyone whose caree
 
 | Tool | What it does | Web version |
 |---|---|---|
-| [Ready for the Room](job-seekers/ready-for-the-room.pdf) | Nineteen interview questions, with what to say and what to avoid | |
+| [Ready for the Room](job-seekers/ready-for-the-room.pdf) | Nineteen interview questions, with what to say, what to avoid and fillable prep pages | |
 | [Tame Those Mind Monkeys](job-seekers/tame-those-mind-monkeys.pdf) | A kind, practical guide to answering self-doubt, with calming tools and cut-out cards | |
 | [A Sample New Leaf Story](job-seekers/new-leaf-sample-career-story.pdf) | What the free New Leaf story builder produces | [New Leaf](https://andersonco.uk/newleaf) |
 | [Product Leadership Interviews](job-seekers/product-leadership-interviews.pdf) | FAQs and how-tos for Head of Product, VP and CPO interviews | [Open](https://andersonco.uk/product-leadership-interviews) |
